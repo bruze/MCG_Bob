@@ -1,0 +1,1 @@
+﻿/t:exe /main:Samples.Class1 /utf8output /R:"System.dll" /out:"HelloWorld.exe" /D:DEBUG /debug+ /optimize- /w:3 /optimize  "HelloWorld.cs"

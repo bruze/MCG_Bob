@@ -1,0 +1,5 @@
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Ensamblaje\MCGEnsamblaje\bin\Debug\MCGEnsamblaje.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Ensamblaje\MCGEnsamblaje\bin\Debug\MCGEnsamblaje.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Ensamblaje\MCGEnsamblaje\obj\Debug\MCGEnsamblaje.csprojResolveAssemblyReference.cache
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Ensamblaje\MCGEnsamblaje\obj\Debug\MCGEnsamblaje.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Ensamblaje\MCGEnsamblaje\obj\Debug\MCGEnsamblaje.pdb

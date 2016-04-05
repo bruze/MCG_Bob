@@ -1,0 +1,17 @@
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Release\Bob.exe.config
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Release\Bob.exe
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Release\Bob.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Release\MCGDelegator.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Release\MCGEnsamblaje.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Release\MCGTracer.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Release\MCGTranscriptor.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Release\MCGEnsamblaje.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Release\MCGDelegator.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Release\MCGTracer.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Release\MCGTranscriptor.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Release\Bob.csprojResolveAssemblyReference.cache
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Release\Bob.Form1.resources
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Release\Bob.Properties.Resources.resources
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Release\Bob.csproj.GenerateResource.Cache
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Release\Bob.exe
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Release\Bob.pdb

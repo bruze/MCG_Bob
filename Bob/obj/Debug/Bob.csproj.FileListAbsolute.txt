@@ -1,0 +1,17 @@
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug\Bob.exe.config
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug\Bob.exe
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug\Bob.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug\MCGDelegator.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug\MCGTracer.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug\MCGDelegator.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug\MCGTracer.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Debug\Bob.csprojResolveAssemblyReference.cache
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Debug\Bob.Form1.resources
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Debug\Bob.Properties.Resources.resources
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Debug\Bob.csproj.GenerateResource.Cache
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Debug\Bob.exe
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\obj\Debug\Bob.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug\MCGEnsamblaje.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug\MCGEnsamblaje.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug\MCGTranscriptor.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug\MCGTranscriptor.pdb

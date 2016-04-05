@@ -1,0 +1,5 @@
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTranscriptor\bin\Release\MCGTranscriptor.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTranscriptor\bin\Release\MCGTranscriptor.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTranscriptor\obj\Release\MCGTranscriptor.csprojResolveAssemblyReference.cache
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTranscriptor\obj\Release\MCGTranscriptor.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTranscriptor\obj\Release\MCGTranscriptor.pdb

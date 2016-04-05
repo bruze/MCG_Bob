@@ -1,0 +1,7 @@
+﻿C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\Bob\bin\Debug> "C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe" /t:exe /main:Samples.Class1 /utf8output /R:"System.dll" /R:"hola.dll" /out:"HelloWorld.exe" /D:DEBUG /debug+ /optimize- /w:3 /optimize  "HelloWorld.cs"
+
+
+Microsoft (R) Visual C# Compiler version 4.0.30319.18408
+for Microsoft (R) .NET Framework 4.5
+Copyright (C) Microsoft Corporation. All rights reserved.
+

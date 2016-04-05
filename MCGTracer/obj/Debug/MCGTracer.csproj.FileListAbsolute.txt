@@ -1,0 +1,5 @@
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTracer\bin\Debug\MCGTracer.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTracer\bin\Debug\MCGTracer.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTracer\obj\Debug\MCGTracer.csprojResolveAssemblyReference.cache
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTracer\obj\Debug\MCGTracer.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTracer\obj\Debug\MCGTracer.pdb

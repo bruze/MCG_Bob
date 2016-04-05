@@ -1,0 +1,4 @@
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTracer\bin\Release\MCGTracer.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTracer\bin\Release\MCGTracer.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTracer\obj\Release\MCGTracer.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTracer\obj\Release\MCGTracer.pdb

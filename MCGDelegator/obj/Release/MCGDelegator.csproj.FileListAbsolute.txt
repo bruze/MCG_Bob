@@ -1,0 +1,4 @@
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGDelegator\bin\Release\MCGDelegator.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGDelegator\bin\Release\MCGDelegator.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGDelegator\obj\Release\MCGDelegator.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGDelegator\obj\Release\MCGDelegator.pdb

@@ -1,0 +1,5 @@
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGDelegator\obj\Debug\MCGDelegator.csprojResolveAssemblyReference.cache
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGDelegator\bin\Debug\MCGDelegator.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGDelegator\bin\Debug\MCGDelegator.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGDelegator\obj\Debug\MCGDelegator.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGDelegator\obj\Debug\MCGDelegator.pdb

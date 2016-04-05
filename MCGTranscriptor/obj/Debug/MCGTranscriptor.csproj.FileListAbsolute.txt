@@ -1,0 +1,4 @@
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTranscriptor\bin\Debug\MCGTranscriptor.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTranscriptor\bin\Debug\MCGTranscriptor.pdb
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTranscriptor\obj\Debug\MCGTranscriptor.dll
+C:\Users\bgarelli\Documents\Visual Studio 2012\Projects\Bob\MCGTranscriptor\obj\Debug\MCGTranscriptor.pdb
